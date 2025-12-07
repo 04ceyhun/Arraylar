@@ -1,4 +1,4 @@
-// task2.cpp - Müsbət ədədlər arasında ən kiçiyini tapan funksiya (1-ci kurs səviyyəsi)
+// task2.cpp - Müsbət ədədlər arasında ən kiçiyini tapan funksiya 
 #include <iostream>
 using namespace std;
 
